@@ -1,0 +1,12 @@
+README1.md
+empty\ folder/
+node_modules/
+TZ_UNET_2.docx
+emulation/
+log/**
+memstats.csv
+.vscode
+memstats.csv
+*.heapsnapshot
+package-lock.json
+shared
